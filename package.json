@@ -1,0 +1,26 @@
+{
+  "name": "falcor-conferences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanyogan/falcor-conferences.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanyogan/falcor-conferences/issues"
+  },
+  "homepage": "https://github.com/ryanyogan/falcor-conferences#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "falcor": "^0.1.14",
+    "falcor-express": "^0.1.2",
+    "falcor-router": "^0.2.11",
+    "lodash": "^3.10.1"
+  }
+}
